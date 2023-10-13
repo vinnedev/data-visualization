@@ -1,5 +1,8 @@
 # Análise e Visualização de Dados (Pinguins)
 
+## Instalação das bibliotecas
+pip install -r requirements.txt
+
 ## Processos
 
 ### 1. Importação de Bibliotecas e Conjunto de Dados
